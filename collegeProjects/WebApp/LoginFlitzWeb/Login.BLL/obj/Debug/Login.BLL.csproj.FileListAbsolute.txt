@@ -1,0 +1,20 @@
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\Login.BLL\bin\Debug\Login.BLL.dll
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\Login.BLL\bin\Debug\Login.BLL.pdb
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\Login.BLL\bin\Debug\Login.DAL.dll
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\Login.BLL\bin\Debug\Login.Entities.dll
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\Login.BLL\bin\Debug\Login.DAL.pdb
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\Login.BLL\bin\Debug\Login.Entities.pdb
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\Login.BLL\obj\Debug\Login.BLL.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\Login.BLL\obj\Debug\Login.BLL.dll
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\Login.BLL\obj\Debug\Login.BLL.pdb
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\Login.BLL\bin\Debug\Login.BLL.dll
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\Login.BLL\bin\Debug\Login.BLL.pdb
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\Login.BLL\bin\Debug\Login.DAL.dll
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\Login.BLL\bin\Debug\Login.Entities.dll
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\Login.BLL\bin\Debug\Login.DAL.pdb
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\Login.BLL\bin\Debug\Login.Entities.pdb
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\Login.BLL\obj\Debug\Login.BLL.csprojAssemblyReference.cache
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\Login.BLL\obj\Debug\Login.BLL.csproj.CoreCompileInputs.cache
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\Login.BLL\obj\Debug\Login.BLL.csproj.CopyComplete
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\Login.BLL\obj\Debug\Login.BLL.dll
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\Login.BLL\obj\Debug\Login.BLL.pdb

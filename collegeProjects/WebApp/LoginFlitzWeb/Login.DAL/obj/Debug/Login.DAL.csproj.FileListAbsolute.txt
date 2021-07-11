@@ -1,0 +1,16 @@
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\Login.DAL\bin\Debug\Login.DAL.dll
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\Login.DAL\bin\Debug\Login.DAL.pdb
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\Login.DAL\bin\Debug\Login.Entities.dll
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\Login.DAL\bin\Debug\Login.Entities.pdb
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\Login.DAL\obj\Debug\Login.DAL.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\Login.DAL\obj\Debug\Login.DAL.dll
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\Login.DAL\obj\Debug\Login.DAL.pdb
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\Login.DAL\bin\Debug\Login.DAL.dll
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\Login.DAL\bin\Debug\Login.DAL.pdb
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\Login.DAL\bin\Debug\Login.Entities.dll
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\Login.DAL\bin\Debug\Login.Entities.pdb
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\Login.DAL\obj\Debug\Login.DAL.csprojAssemblyReference.cache
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\Login.DAL\obj\Debug\Login.DAL.csproj.CoreCompileInputs.cache
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\Login.DAL\obj\Debug\Login.DAL.csproj.CopyComplete
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\Login.DAL\obj\Debug\Login.DAL.dll
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\Login.DAL\obj\Debug\Login.DAL.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web Pim", "Web Pim\Web Pim.csproj", "{73B41638-163B-48B0-A9E8-6A529BDD1F4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73B41638-163B-48B0-A9E8-6A529BDD1F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B41638-163B-48B0-A9E8-6A529BDD1F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B41638-163B-48B0-A9E8-6A529BDD1F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B41638-163B-48B0-A9E8-6A529BDD1F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B40B83BB-A3D0-4EE9-AEF5-4950D14A716E}
+	EndGlobalSection
+EndGlobal

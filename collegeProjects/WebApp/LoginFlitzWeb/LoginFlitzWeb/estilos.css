@@ -1,0 +1,53 @@
+﻿#main {
+    position: absolute;
+    top: 48%;
+    left: 52%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    margin-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    width: 360px;
+    height: 540px;
+    border-radius: 4px;
+}
+.conteiner {
+    text-align: center;
+    display:inherit;
+}
+.input_field {
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    transition: border 500ms ease;
+}
+
+.input_field:focus {
+    border: 1px solid #1C1C64;
+}
+
+#btn_entrar {
+    margin-top:16px;
+    border: 1px hidden white;
+    background-color: #1C1C64;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition: all 500ms ease;
+    border-radius: 4px;
+}
+
+
+#btn_entrar:hover, #btn_entrar:focus {
+    color: #1C1C64;
+    background-color: white;
+    border: 1px hidden #1C1C64;
+}

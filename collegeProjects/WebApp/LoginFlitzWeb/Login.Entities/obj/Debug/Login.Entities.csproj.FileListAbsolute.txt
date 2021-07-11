@@ -1,0 +1,5 @@
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\Login.Entities\bin\Debug\Login.Entities.dll
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\Login.Entities\bin\Debug\Login.Entities.pdb
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\Login.Entities\obj\Debug\Login.Entities.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\Login.Entities\obj\Debug\Login.Entities.dll
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\Login.Entities\obj\Debug\Login.Entities.pdb

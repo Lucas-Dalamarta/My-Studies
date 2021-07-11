@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginFlitzWeb", "LoginFlitzWeb\LoginFlitzWeb.csproj", "{4856B271-815F-4A48-82E9-E807A67A3557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login.BLL", "Login.BLL\Login.BLL.csproj", "{578A0C86-44D6-4427-9EA6-9DC88A47BF14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login.DAL", "Login.DAL\Login.DAL.csproj", "{AE1373EE-A220-4CD2-8E92-E35BFEC1AE6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login.Entities", "Login.Entities\Login.Entities.csproj", "{0F102D62-A4EA-49C4-BDDD-9B04A31A8346}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4856B271-815F-4A48-82E9-E807A67A3557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4856B271-815F-4A48-82E9-E807A67A3557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4856B271-815F-4A48-82E9-E807A67A3557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4856B271-815F-4A48-82E9-E807A67A3557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{578A0C86-44D6-4427-9EA6-9DC88A47BF14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{578A0C86-44D6-4427-9EA6-9DC88A47BF14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{578A0C86-44D6-4427-9EA6-9DC88A47BF14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{578A0C86-44D6-4427-9EA6-9DC88A47BF14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE1373EE-A220-4CD2-8E92-E35BFEC1AE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE1373EE-A220-4CD2-8E92-E35BFEC1AE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE1373EE-A220-4CD2-8E92-E35BFEC1AE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE1373EE-A220-4CD2-8E92-E35BFEC1AE6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F102D62-A4EA-49C4-BDDD-9B04A31A8346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F102D62-A4EA-49C4-BDDD-9B04A31A8346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F102D62-A4EA-49C4-BDDD-9B04A31A8346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F102D62-A4EA-49C4-BDDD-9B04A31A8346}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

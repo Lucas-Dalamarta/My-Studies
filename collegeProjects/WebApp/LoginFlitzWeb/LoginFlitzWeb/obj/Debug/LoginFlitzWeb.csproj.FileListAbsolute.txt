@@ -1,0 +1,53 @@
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\LoginFlitzWeb\bin\LoginFlitzWeb.dll
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\LoginFlitzWeb\bin\LoginFlitzWeb.pdb
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\LoginFlitzWeb\obj\Debug\LoginFlitzWeb.dll
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\LoginFlitzWeb\obj\Debug\LoginFlitzWeb.pdb
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\LoginFlitzWeb\bin\Login.BLL.dll
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\LoginFlitzWeb\bin\Login.Entities.dll
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\LoginFlitzWeb\bin\Login.DAL.dll
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\LoginFlitzWeb\bin\Login.BLL.pdb
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\LoginFlitzWeb\bin\Login.Entities.pdb
+C:\Users\PC\documents\visual studio 2012\Projects\LoginFlitzWeb\LoginFlitzWeb\bin\Login.DAL.pdb
+C:\Users\PC\Documents\Visual Studio 2012\Projects\LoginFlitzWeb\LoginFlitzWeb\bin\LoginFlitzWeb.dll.config
+C:\Users\PC\Documents\Visual Studio 2012\Projects\LoginFlitzWeb\LoginFlitzWeb\obj\Debug\LoginFlitzWeb.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2012\Projects\LoginFlitzWeb\LoginFlitzWeb\obj\Debug\LoginFlitzWeb.csproj.CopyComplete
+C:\Users\PC\Desktop\bkp Projects\LoginFlitzWeb\LoginFlitzWeb\bin\LoginFlitzWeb.dll.config
+C:\Users\PC\Desktop\bkp Projects\LoginFlitzWeb\LoginFlitzWeb\bin\LoginFlitzWeb.dll
+C:\Users\PC\Desktop\bkp Projects\LoginFlitzWeb\LoginFlitzWeb\bin\LoginFlitzWeb.pdb
+C:\Users\PC\Desktop\bkp Projects\LoginFlitzWeb\LoginFlitzWeb\bin\Login.BLL.dll
+C:\Users\PC\Desktop\bkp Projects\LoginFlitzWeb\LoginFlitzWeb\bin\Login.Entities.dll
+C:\Users\PC\Desktop\bkp Projects\LoginFlitzWeb\LoginFlitzWeb\bin\Login.DAL.dll
+C:\Users\PC\Desktop\bkp Projects\LoginFlitzWeb\LoginFlitzWeb\bin\Login.BLL.pdb
+C:\Users\PC\Desktop\bkp Projects\LoginFlitzWeb\LoginFlitzWeb\bin\Login.Entities.pdb
+C:\Users\PC\Desktop\bkp Projects\LoginFlitzWeb\LoginFlitzWeb\bin\Login.DAL.pdb
+C:\Users\PC\Desktop\bkp Projects\LoginFlitzWeb\LoginFlitzWeb\obj\Debug\LoginFlitzWeb.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\bkp Projects\LoginFlitzWeb\LoginFlitzWeb\obj\Debug\LoginFlitzWeb.csproj.CopyComplete
+C:\Users\PC\Desktop\bkp Projects\LoginFlitzWeb\LoginFlitzWeb\obj\Debug\LoginFlitzWeb.dll
+C:\Users\PC\Desktop\bkp Projects\LoginFlitzWeb\LoginFlitzWeb\obj\Debug\LoginFlitzWeb.pdb
+C:\Users\PC\Desktop\BDFLITZ\LoginFlitzWeb\LoginFlitzWeb\bin\LoginFlitzWeb.dll.config
+C:\Users\PC\Desktop\BDFLITZ\LoginFlitzWeb\LoginFlitzWeb\bin\LoginFlitzWeb.dll
+C:\Users\PC\Desktop\BDFLITZ\LoginFlitzWeb\LoginFlitzWeb\bin\LoginFlitzWeb.pdb
+C:\Users\PC\Desktop\BDFLITZ\LoginFlitzWeb\LoginFlitzWeb\bin\Login.BLL.dll
+C:\Users\PC\Desktop\BDFLITZ\LoginFlitzWeb\LoginFlitzWeb\bin\Login.Entities.dll
+C:\Users\PC\Desktop\BDFLITZ\LoginFlitzWeb\LoginFlitzWeb\bin\Login.DAL.dll
+C:\Users\PC\Desktop\BDFLITZ\LoginFlitzWeb\LoginFlitzWeb\bin\Login.BLL.pdb
+C:\Users\PC\Desktop\BDFLITZ\LoginFlitzWeb\LoginFlitzWeb\bin\Login.Entities.pdb
+C:\Users\PC\Desktop\BDFLITZ\LoginFlitzWeb\LoginFlitzWeb\bin\Login.DAL.pdb
+C:\Users\PC\Desktop\BDFLITZ\LoginFlitzWeb\LoginFlitzWeb\obj\Debug\LoginFlitzWeb.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\BDFLITZ\LoginFlitzWeb\LoginFlitzWeb\obj\Debug\LoginFlitzWeb.csproj.CopyComplete
+C:\Users\PC\Desktop\BDFLITZ\LoginFlitzWeb\LoginFlitzWeb\obj\Debug\LoginFlitzWeb.dll
+C:\Users\PC\Desktop\BDFLITZ\LoginFlitzWeb\LoginFlitzWeb\obj\Debug\LoginFlitzWeb.pdb
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\LoginFlitzWeb\bin\LoginFlitzWeb.dll.config
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\LoginFlitzWeb\bin\LoginFlitzWeb.dll
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\LoginFlitzWeb\bin\LoginFlitzWeb.pdb
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\LoginFlitzWeb\bin\Login.BLL.dll
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\LoginFlitzWeb\bin\Login.Entities.dll
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\LoginFlitzWeb\bin\Login.DAL.dll
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\LoginFlitzWeb\bin\Login.BLL.pdb
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\LoginFlitzWeb\bin\Login.Entities.pdb
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\LoginFlitzWeb\bin\Login.DAL.pdb
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\LoginFlitzWeb\obj\Debug\LoginFlitzWeb.csprojAssemblyReference.cache
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\LoginFlitzWeb\obj\Debug\LoginFlitzWeb.csproj.CoreCompileInputs.cache
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\LoginFlitzWeb\obj\Debug\LoginFlitzWeb.csproj.CopyComplete
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\LoginFlitzWeb\obj\Debug\LoginFlitzWeb.dll
+C:\Users\lfdal\GitHub\Git-all\Projects\WebApp\LoginFlitzWeb\LoginFlitzWeb\obj\Debug\LoginFlitzWeb.pdb
